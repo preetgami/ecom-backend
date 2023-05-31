@@ -1,7 +1,7 @@
 const stripe = require('stripe')(`${process.env.STRIPE_KEY}`);
 const express = require('express');
 
-const YOUR_DOMAIN = 'http://localhost:3000';
+const YOUR_DOMAIN = 'https://ecom-site-7cfad.firebaseapp.com/';
 const router = express.Router()
 
 router.post('/create-checkout-session', async (req, res) => {
