@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"preet",
+        "DB_PASSWORD":"preet123",
+        "JWT_KEY":"encryption password goes here",
+        "STRIPE_KEY":"sk_test_51NDYuPIWMqutb5suEtVTqsJNFYGS3XKao4EIpP5O4EsM4UJq3y5Nod5Gye25pvwQWWT11ecdHIPrABushdvh9tfm00x1KrbnYM"
+    }
+}
