@@ -1,11 +1,9 @@
 # ecom-backend
-# the website link 👇 used to be here
-
-But due to hosting fees I had to stop. I have the demos below.
-
+If the link above doesn't work it's likely due to the free hosting subscription running out.
+In that case view the video below to check what the website looked like!
 
 A full MERN STACK application created with react on the front end and node for the backend.
-It also had Stripe intergration for ease of checkout.
+Additionaly, I added Stripe intergration for ease of checkout. 
 This is an ecommerce site that allows users to buy art. 
 
 # Tech stack 
@@ -15,8 +13,12 @@ This is an ecommerce site that allows users to buy art.
 + Node - Backend
 + React for the front end
 
-If the link above doesn't work it's likely due to the free hosting subscription running out.
-In that case view the video below to check what the website looked like!
+Feautres:
+- Stripe Intergraption
+- Basket
+- Authentication
+  
+
 
 
 
