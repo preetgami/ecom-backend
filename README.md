@@ -1,10 +1,11 @@
 # ecom-backend
-# the website 👇 used to be here
-"https://ecom-site-7cfad.firebaseapp.com/"
+# the website link 👇 used to be here
+
 But due to hosting fees I had to stop. I have the demos below.
 
 
 A full MERN STACK application created with react on the front end and node for the backend.
+It also had Stripe intergration for ease of checkout.
 This is an ecommerce site that allows users to buy art. 
 
 # Tech stack 
