@@ -1,6 +1,7 @@
 # ecom-backend
-# the website 👇
-https://ecom-site-7cfad.firebaseapp.com/
+# the website 👇 used to be here
+"https://ecom-site-7cfad.firebaseapp.com/"
+But due to hosting fees I had to stop. I have the demos below.
 
 
 A full MERN STACK application created with react on the front end and node for the backend.
